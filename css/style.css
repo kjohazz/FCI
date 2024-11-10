@@ -220,6 +220,10 @@
     .container.facts .facts-counter {
         padding-right: calc(((100% - 960px) / 2) + .75rem);
     }
+
+    .new {
+        min-height: 500px
+    }
 }
 
 @media (min-width: 1200px) {
